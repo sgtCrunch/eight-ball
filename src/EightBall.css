@@ -1,0 +1,14 @@
+.eight-ball{
+    border-radius: 170px;
+    width: 320px;
+    padding-top: 150px;
+    padding-bottom: 150px;
+    text-align: center;
+}
+
+.eight-ball-fortune{
+    color:white;
+    pointer-events: none;
+    user-select: none;
+    font-size: large;
+}
